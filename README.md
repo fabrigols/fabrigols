@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there! I`m Fabrício Masiero 👋
 
-<!--
-**fabrigols/fabrigols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 iOS Developer
+- 📚 Information System Student
+  
+<a href="https://www.linkedin.com/in/masierofabricio"> <img title="linkdin" alt="in" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
 
-Here are some ideas to get you started:
+##        
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fabrigols&show_icons=true&theme=dracula)
+
+##
+
+**Programming Languages**
+
+<img title="iOS" alt="iOS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />|<img title="Swift" alt="Swift" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />|
+|--|--|
+
+##
+
+**Libraries and Frameworks**
+
+- UIKit
+- SwiftUI
+
+##
+
+**Joke of the day** 
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry)
